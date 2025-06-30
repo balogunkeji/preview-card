@@ -113,6 +113,10 @@ button:hover {
     background-color: hsl(158, 36%, 27%);
 }
 
+.p{
+  letter-spacing: 8px;
+}
+
 /* Desktop Layout */
 @media (min-width: 768px) {
 
@@ -140,6 +144,6 @@ button:hover {
         font-size: 30px;
     }
     .card-content  {
-       padding: 3% 2%;
+       padding: 3%;
     }
 }
