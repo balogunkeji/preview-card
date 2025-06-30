@@ -126,7 +126,7 @@ button:hover {
     .card {
         flex-direction: row;
         width: 500px;
-        height: 380px;
+        height: 390px;
     }
 
     .card-image,
